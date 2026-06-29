@@ -6,7 +6,7 @@ venv/
 .env/
 
 data/raw/
-data/processed/
+
 
 mlruns/
 logs/
