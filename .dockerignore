@@ -1,0 +1,16 @@
+.git
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+venv
+.env
+
+data/raw
+mlruns
+logs
+
+*.pkl
+*.joblib
+*.h5
+*.pt
