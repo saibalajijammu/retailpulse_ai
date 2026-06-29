@@ -1,0 +1,2 @@
+forecast_demand,current_stock,lead_time_days,safety_stock,reorder_point,inventory_status,recommended_order_qty
+15372.883,500,5,3074.5766000000003,5636.723766666667,Reorder Needed,17947.459600000002
